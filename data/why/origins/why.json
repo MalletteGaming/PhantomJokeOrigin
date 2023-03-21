@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"why:health",
+		"why:health_other"
+	],
+	"icon": "minecraft:air",
+	"order": 10,
+	"impact": 0,
+	"name": "Phantom No",
+	"description": "Phantom Why"
+}
